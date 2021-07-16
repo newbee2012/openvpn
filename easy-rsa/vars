@@ -1,6 +1,0 @@
-set_var EASYRSA_REQ_COUNTRY     "CN"
-set_var EASYRSA_REQ_PROVINCE    "Henan"
-set_var EASYRSA_REQ_CITY        "Zhengzhou"
-set_var EASYRSA_REQ_ORG         "along"
-set_var EASYRSA_REQ_EMAIL       "along@163.com"
-set_var EASYRSA_REQ_OU          "My OpenVPN"
